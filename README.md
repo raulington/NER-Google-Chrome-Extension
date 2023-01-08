@@ -23,7 +23,7 @@ Here is a basic overview of how the extension works:
 
 
 ## DISCLAIMER:
-This chrome extension is not made to be publish for commercial use. The REST API is not validating for cross-site-request forgery attacks. It is also trusting all external domains. This is because in settings.py, it has the following flag set to true.
+This chrome extension is not made to be published for commercial use. The REST API is not validating for cross-site-request forgery attacks. It is also trusting all external domains. This is because in settings.py, it has the following flag set to true.
 ```
 CORS_ORIGIN_ALLOW_ALL = True
 ```

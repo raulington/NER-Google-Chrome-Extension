@@ -2,6 +2,8 @@
 
 This is a google chrome extension I made that employs named entity recognition using the StanfordNLP software.
 
+The Jupyter notebook gives a simple example of how named entity recognition is employed with the NLTK software and the StanfordNLP software.
+
 To try this you will need Stanford NER files downloaded through [here](https://nlp.stanford.edu/software/CRF-NER.html) and NLTK will need to be installed.
 
 Some variables are defined using filepaths that refer to the location of Stanford NER files in my system as well as the location of the java.exe in my system, so those variables will need to be changed based on the users location of those files.
